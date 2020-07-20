@@ -51,7 +51,7 @@ e.g
 
 e.g
   
- \$ cal 2019
+    $ cal 2019
 
 **To see the calender of desired month with year**
 
@@ -67,7 +67,7 @@ e.g
 
 e.g  
   
- \$ echo hello
+    $ echo hello
 
 **To speak something through your system speaker using cmd**
 
@@ -79,4 +79,3 @@ e.g
 
     $ date | espeak-ng
 
-\*\*
